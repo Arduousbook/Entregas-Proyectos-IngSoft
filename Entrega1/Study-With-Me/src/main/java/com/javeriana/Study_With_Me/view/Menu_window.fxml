@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" spacing="20.0" stylesheets="@style_1.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.javeriana.Study_With_Me.controller.Menu_windowController">
+   <children>
+      <Label id="title" text="Study With Me" />
+      <Button fx:id="view_profile" mnemonicParsing="false" onAction="#onClickView_profile" text="Ver Perfil" />
+      <Button fx:id="back" mnemonicParsing="false" onAction="#onClickBack" text="Volver" />
+   </children>
+</VBox>

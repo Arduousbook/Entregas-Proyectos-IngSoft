@@ -1,0 +1,70 @@
+#Main {
+    -fx-font-family: "Bodoni MT";
+    -fx-background-color: #DFF6FF;
+}
+
+#title {
+    -fx-font-family: "Bodoni MT";
+    -fx-font-size: 60px;
+    -fx-text-fill: #06283D;
+}
+
+#room1 {
+    -fx-font-family: "Bodoni MT";
+    -fx-text-fill: #06283D;
+    -fx-font-size: 30px;
+}
+
+#warning {
+    -fx-font-family: "Bodoni MT";
+    -fx-text-fill: #ff0000;
+    -fx-font-size: 20px;
+}
+
+.list-view {
+    -fx-background-color: #DFF6FF;
+}
+.button, .text-field, .choice-box, .password-field {
+    -fx-font-family: "Bodoni MT";
+    -fx-background-color: #DFF6FF;
+    -fx-border-color: #06283D;
+    -fx-text-fill: #06283D;
+    -fx-border-width: 2;
+    -fx-font-size: 20px;
+    -fx-min-width: 820px;
+    -fx-pref-width: 820px;
+    -fx-background-radius: 10 10 10 10;
+    -fx-border-radius: 10 10 10 10;
+    -fx-cursor: HAND;
+}
+.label{
+    -fx-text-fill: #06283D;
+    -fx-font-size: 20px;
+}
+
+.check-box{
+    -fx-font-family: "Bodoni MT";
+    -fx-background-color: #DFF6FF;
+    -fx-text-fill: #06283D;
+    -fx-font-size: 20px;
+    -fx-min-width: 820px;
+    -fx-pref-width: 820px;
+    -fx-background-radius: 10 10 10 10;
+    -fx-border-radius: 10 10 10 10;
+    -fx-cursor: HAND;
+}
+
+#asignaturas{
+    -fx-pref-height: 200px;
+    -fx-background-color: #DFF6FF;
+}
+
+
+#perfil-asignaturas, #perfil-aptitudes{
+    -fx-background-color: #DFF6FF;
+    -fx-border-width: 2;
+    -fx-pref-height: 200px;
+    -fx-pref-width: 400px;
+    -fx-background-radius: 10 10 10 10;
+    -fx-border-radius: 10 10 10 10;
+}

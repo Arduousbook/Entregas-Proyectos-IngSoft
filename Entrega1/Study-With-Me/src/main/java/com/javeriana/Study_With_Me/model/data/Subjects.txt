@@ -1,0 +1,43 @@
+0;Bases de Datos;4;Programacion
+1;Comunicaciones y Redes;4;Ing. Aplicada
+2;Álgebra Lineal;3;Matematicas
+3;Análisis Numérico;3;Matematicas
+4;Análisis y Diseño de SW;3;Programacion
+5;Arquitectura de Software;3;Programacion
+6;Cálculo Diferencial;3;Matematicas
+7;Cálculo Integral;3;Matematicas
+8;Cálculo Vectorial;3;Matematicas
+9;Desarrollo Web;3;Programacion
+10;Ecuaciones Diferenciales;3;Matematicas
+11;Estructuras de Datos;3;Programacion
+12;Física Mecánica;3;Matematicas
+13;Fundamentos de Ingeniería de Software;3;Programacion
+14;Gestión de Proy. de Inn. Y Emprendimiento de TI;3;Empresarial
+15;Intro. a la Programación;3;Programacion
+16;Intro. Inteligencia Artificial;3;Programacion
+17;Lógica y Mate. Discretas;3;Matematicas
+18;Pensamiento Sistémico;3;Ing. aplicada
+19;Probabilidad y Estadística;3;Matematicas
+20;Programación Avanzada;3;Programacion
+21;Proyecto de Innovación y Emprendimiento;3;Empresarial
+22;Sistemas de Información;3;Empresarial
+23;Sistemas Operativos;3;Programacion
+24;Análisis de Algoritmos;2;Programacion
+25;Arquitectura y Organización del Computador ;2;Ing. aplicada
+26;Constitución y Derecho Civil;2;Socio-Humanistica
+27;Epistemología de la Ingeniería;2;Socio-Humanistica
+28;Ética en la Era de la información;2;Socio-Humanistica
+29;Fe y compromiso del ingeniero;2;Socio-Humanistica
+30;Fundamentos Seguridad de la Información;2;Ing. aplicada
+31;Gerencia Estratégica de TI;2;Empresarial
+32;Gestión Financiera de Proyectos de TI;2;Empresarial
+33;Intro. Sistemas Distribuidos;2;Programacion
+34;Introducción a la Computación Móvil;2;Programacion
+35;Introducción a la Ingeniería;2;Ing. Aplicada
+36;Opti. y Simulación;2;Programacion
+37;Proyecto de Diseño en ingeniería;2;Empresarial
+38;Proyecto Social Universitario;2;Socio-Humanistica
+39;Significación teológica;2;Socio-Humanistica
+40;Tecnologías Digitales Emergentes;2;Empresarial
+41;Teoría de la Computación;2;Programacion
+END

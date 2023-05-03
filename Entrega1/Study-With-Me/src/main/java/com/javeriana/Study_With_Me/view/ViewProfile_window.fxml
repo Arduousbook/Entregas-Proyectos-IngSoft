@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox fx:id="Main" alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" spacing="20.0" stylesheets="@style_1.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.javeriana.Study_With_Me.controller.View_profile_windowController">
+               <Label id="title" fx:id="tittle" text="Perfil" />
+            <HBox alignment="CENTER_LEFT" maxWidth="820.0" prefWidth="820.0" spacing="20.0">
+         <Label id="room1" text="Nombre de perfil: " />
+      <Label fx:id="profileNamee" />
+            </HBox>
+      <HBox alignment="TOP_CENTER" spacing="20.0">
+      <VBox alignment="CENTER" spacing="20.0">
+         <children>
+            <Label id="room1" text="Materias:" />
+            <BorderPane>
+               <top>
+                  <ScrollPane BorderPane.alignment="CENTER">
+                     <content>
+                        <VBox id="perfil-asignaturas" fx:id="subjects" />
+                     </content>
+                  </ScrollPane>
+               </top>
+            </BorderPane>
+         </children>
+      </VBox>
+      <VBox alignment="CENTER" spacing="20.0">
+         <children>
+            <Label id="room1" text="Aptitudes:" />
+            <BorderPane>
+               <top>
+                  <ScrollPane BorderPane.alignment="CENTER">
+                     <content>
+                        <VBox id="perfil-aptitudes" fx:id="aptitudes" />
+                     </content>
+                  </ScrollPane>
+               </top>
+            </BorderPane>
+         </children>
+      </VBox>
+      </HBox>
+               <Button fx:id="returnButton" mnemonicParsing="false" onAction="#returnn" text="Volver" />
+</VBox>

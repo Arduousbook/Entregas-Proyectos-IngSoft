@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox fx:id="Main" alignment="CENTER" prefHeight="403.0" prefWidth="330.0" spacing="20.0" stylesheets="@style_1.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.javeriana.Study_With_Me.controller.Main_windowController">
+    <HBox alignment="CENTER" spacing="10.0">
+        <padding>
+            <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+        </padding>
+        <Label fx:id="title" text="Study With Me" />
+    </HBox>
+    <Button fx:id="Login" onAction="#onLoginButtonClick" text="Login" />
+    <Button fx:id="Signup" alignment="CENTER" onAction="#onSignupButtonClick" text="Signup" />
+    <HBox alignment="CENTER" spacing="20.0">
+        <padding>
+            <Insets top="50.0" />
+        </padding>
+    </HBox>
+</VBox>

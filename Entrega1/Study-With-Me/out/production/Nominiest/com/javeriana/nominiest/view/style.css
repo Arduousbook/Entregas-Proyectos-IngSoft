@@ -1,0 +1,55 @@
+#Main {
+    -fx-font-family: "Georgia";
+    -fx-background-color: #A11E22;
+}
+
+#title {
+    -fx-font-family: "Apple Chancery";
+    -fx-font-size: 80px;
+    -fx-text-fill: linear-gradient(#e2b028, #E8A631, #E5E4DA, #E8A631, #e2b028);
+}
+
+#room1, #name , #room2, #month, #amount {
+    -fx-text-fill: #e2b028;
+    -fx-font-size: 15px;
+}
+
+#loading {
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+}
+
+#percentage {
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+}
+
+.list-view {
+    -fx-background-color: #e2b028;
+}
+
+.text-field {
+    -fx-background-color: #627f49;
+    -fx-text-fill: #FAD7A0;
+    -fx-font-size: 20px;
+}
+
+.button {
+    -fx-background-color: #A11E22;
+    -fx-border-color: #E5E4DA;
+    -fx-text-fill: #E5E4DA;
+    -fx-border-width: 2;
+    -fx-font-size: 30px;
+    -fx-background-radius: 10 10 10 10;
+    -fx-border-radius: 10 10 10 10;
+    -fx-cursor: HAND;
+}
+
+.progress-bar > .bar {
+    -fx-background-color: #FAD7A0;
+}
+
+.progress-bar > .track {
+    -fx-text-box-border: #A11E22;
+    -fx-control-inner-background: black;
+}
