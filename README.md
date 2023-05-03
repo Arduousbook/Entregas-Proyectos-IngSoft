@@ -3,7 +3,7 @@ Repositorio creado para las entregas del proyecto de Fundamentos de Ingeniería 
 
 
 - **Grupo:** Los testigos de Java
-**Integrantes de Grupo:**
+- **Integrantes de Grupo:**
   - Andres Garcia
   - David Barreto
   - Natalia Mejía
